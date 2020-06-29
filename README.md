@@ -2,8 +2,8 @@
 
 - 관리자 : 신경식
 - 담당조교 : 양근제, 나준영, 조소영
-- 최중수정일 : 20200629
-- 강의링크 : https://www.fastcampus.co.kr/data_online_mathdeep
+- 최종수정일 : 20200629
+- 강의 상세페이지 : https://www.fastcampus.co.kr/data_online_mathdeep
 - 강사 유튜브 채널 : https://www.youtube.com/channel/UCGC6DM7D-ezpTxhdplFlbog (강의 외적인 영상 업로드 예정입니다.)
 
 ## Repository Description
@@ -21,5 +21,3 @@ top-level에 "개발환경 설정 가이드.docx"을 확인하시면 강의에 �
 그리고 utils directory 안에 "DL_with_maths_env.yml" 가상환경 파일이 있으므로 이를 이용하여 가상환경을 복제할 수 있습니다.  
 하지만 강의에서 사용되는 library는 다양하지 않기 때문에 conda command를 이용하여 수동설치해도 무관합니다.  
 가상환경 복제과정 중에 문제가 발생하면 conda command를 이용해서 library들을 설치해주세요.
-
-## 
