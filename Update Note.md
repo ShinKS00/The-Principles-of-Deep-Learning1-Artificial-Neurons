@@ -8,8 +8,6 @@
 - Chapter4 PA Upload
 
 ### 2020-08-04 by 나준영
-
 - Assignment Schedule.xlsx, Update Note.md Update
-
 - Chapter4 TA Upload
 - Chapter5 TA Upload
