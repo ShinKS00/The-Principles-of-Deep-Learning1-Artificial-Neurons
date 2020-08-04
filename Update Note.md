@@ -9,6 +9,5 @@
 
 ### 2020-08-04 by 나준영
 - README.md, Update Note.md 생성
-- Assignment Schedule.xlsx, 개발환경 설정 가이드.docx Upload
 - Chapter4 TA Upload
 - Chapter5 TA Upload
