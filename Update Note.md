@@ -20,3 +20,10 @@
 
 - Assignment Schedule.xlsx, Update Note.md Update
 - Chapter5 PA Upload
+
+---
+
+### 2020-08-11 by 양근제
+
+- Assignment Schedule.xlsx, Update Note.md Update
+- Chapter6 PA Upload
