@@ -34,3 +34,11 @@
 
 - Assignment Schedule.xlsx, Update Note.md Update
 - Chapter7 TA Upload
+
+---
+
+### 2020-10-07 by 양근제
+
+- Assignment Schedule.xlsx, Update Note.md Update
+- Chapter7 PA Upload
+
