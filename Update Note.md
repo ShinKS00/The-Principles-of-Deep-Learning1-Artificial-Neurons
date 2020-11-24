@@ -48,3 +48,10 @@
 
 - Assignment Schedule.xlsx, Update Note.md Update
 - Chapter8 TA Upload
+
+---
+
+### 2020-11-24 by 나준영
+
+- Assignment Schedule.xlsx, Update Note.md Update
+- Chapter9 TA Upload
