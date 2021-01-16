@@ -55,3 +55,10 @@
 
 - Assignment Schedule.xlsx, Update Note.md Update
 - Chapter9 TA Upload
+
+---
+
+### 2021-01-17 by 나준영
+
+- Assignment Schedule.xlsx, Update Note.md Update
+- Chapter10 TA Upload
